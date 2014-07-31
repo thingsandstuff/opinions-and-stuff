@@ -1,7 +1,7 @@
 opinions-and-stuff
 ==================
 
-Do you care about other people's opinions? No? Ask them anyways by creating a poll.
+do you care about other people's opinions? no? ask them anyway by creating a poll.
 
 tech used
 ==================
@@ -12,7 +12,7 @@ css
 javascript
 mysql
 
-theoretical, barebones, pseudo design
+theoretical, bare-bones, pseudo design
 ==================
 so there will be like a main page where you set the question and available answers.
 after you submit the question you will get a url that will point to a generated page
